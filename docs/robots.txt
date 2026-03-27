@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webrootcustomerservice.readthedocs.io/en/latest/
